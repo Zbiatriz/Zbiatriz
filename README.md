@@ -36,10 +36,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zbiatriz&show_icons=true&hide_border=true&locale=pt-br&bg_color=1a0d26&title_color=ff8fd8&icon_color=c77dff&text_color=f3e8ff&ring_color=ff8fd8" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zbiatriz&layout=compact&hide_border=true&locale=pt-br&bg_color=1a0d26&title_color=ff8fd8&text_color=f3e8ff" alt="Linguagens mais usadas">
-
-<img src="https://streak-stats.demolab.com?user=Zbiatriz&locale=pt_BR&hide_border=true&background=1a0d26&ring=FF8FD8&fire=C77DFF&currStreakLabel=FF8FD8&sideLabels=F3E8FF&currStreakNum=F3E8FF&sideNums=F3E8FF&dates=C9A7E8&stroke=3D2352" alt="Sequência de contribuições">
+<!-- Cards gerados todo dia por .github/workflows/cards.yml -->
+<img src="assets/cards/contribuicoes.svg" width="100%" alt="Minhas contribuições no GitHub">
+<img src="assets/cards/linguagens.svg" width="100%" alt="Linguagens que mais uso">
 
 </div>
 

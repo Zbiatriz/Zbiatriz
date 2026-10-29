@@ -1,0 +1,32 @@
+name: Atualiza cards do perfil
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 03h (horário de Brasília)
+  workflow_dispatch: # botão "Run workflow" na aba Actions
+  push:
+    paths:
+      - scripts/gerar_cards.py
+      - .github/workflows/cards.yml
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gera os cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USUARIO: ${{ github.repository_owner }}
+        run: python3 scripts/gerar_cards.py
+
+      - name: Salva se mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add assets/cards
+          git diff --cached --quiet || (git commit -m "Atualiza cards do perfil ♡" && git push)
