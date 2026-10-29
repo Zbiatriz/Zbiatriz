@@ -20,7 +20,8 @@ jobs:
 
       - name: Gera os cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # CARDS_TOKEN (opcional) deixa o card de linguagens enxergar os repositórios privados
+          GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN || secrets.GITHUB_TOKEN }}
           USUARIO: ${{ github.repository_owner }}
         run: python3 scripts/gerar_cards.py
 
