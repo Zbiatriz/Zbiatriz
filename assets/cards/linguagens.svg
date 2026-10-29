@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="128" viewBox="0 0 800 128">
+<style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }</style>
+<rect x="0.5" y="0.5" width="799" height="127" rx="14" fill="#1a0d26" stroke="#3d2352"/>
+<text x="26" y="40" fill="#ff8fd8" font-size="18" font-weight="700">₊˚⊹♡ linguagens que mais uso</text>
+<clipPath id="barra"><rect x="26" y="60" width="748" height="12" rx="6"/></clipPath><g clip-path="url(#barra)">
+<rect x="26.00" y="60" width="748.50" height="12" fill="#ff8fd8"/>
+</g>
+<g><circle cx="32" cy="98" r="6" fill="#ff8fd8"/><text x="44" y="102" fill="#f3e8ff" font-size="13.5">Python <tspan fill="#c9a7e8">100.0%</tspan></text></g>
+</svg>
