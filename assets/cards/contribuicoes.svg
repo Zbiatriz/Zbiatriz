@@ -4,7 +4,7 @@
 <text x="26" y="40" fill="#ff8fd8" font-size="18" font-weight="700">₊˚⊹♡ minhas contribuições</text>
 <g><text x="100" y="88" text-anchor="middle" fill="#f3e8ff" font-size="28" font-weight="700">761</text><text x="100" y="110" text-anchor="middle" fill="#c9a7e8" font-size="12.5">contribuições no total</text></g>
 <g><text x="300" y="88" text-anchor="middle" fill="#f3e8ff" font-size="28" font-weight="700">759</text><text x="300" y="110" text-anchor="middle" fill="#c9a7e8" font-size="12.5">contribuições em 2026</text></g>
-<g><text x="500" y="88" text-anchor="middle" fill="#ff8fd8" font-size="28" font-weight="700">1 dia</text><text x="500" y="110" text-anchor="middle" fill="#c9a7e8" font-size="12.5">sequência atual ♡</text></g>
+<g><text x="500" y="88" text-anchor="middle" fill="#ff8fd8" font-size="28" font-weight="700">0 dias</text><text x="500" y="110" text-anchor="middle" fill="#c9a7e8" font-size="12.5">sequência atual ♡</text></g>
 <g><text x="700" y="88" text-anchor="middle" fill="#f3e8ff" font-size="28" font-weight="700">6 dias</text><text x="700" y="110" text-anchor="middle" fill="#c9a7e8" font-size="12.5">maior sequência</text></g>
 <rect x="30" y="136" width="11" height="11" rx="3" fill="#2a1838"><title>26/10/2025: 0</title></rect>
 <rect x="30" y="150" width="11" height="11" rx="3" fill="#2a1838"><title>27/10/2025: 0</title></rect>
@@ -376,6 +376,7 @@
 <rect x="758" y="178" width="11" height="11" rx="3" fill="#2a1838"><title>28/10/2026: 0</title></rect>
 <rect x="758" y="192" width="11" height="11" rx="3" fill="#5c2a6e"><title>29/10/2026: 4</title></rect>
 <rect x="758" y="206" width="11" height="11" rx="3" fill="#2a1838"><title>30/10/2026: 0</title></rect>
+<rect x="758" y="220" width="11" height="11" rx="3" fill="#2a1838"><title>31/10/2026: 0</title></rect>
 <text x="652" y="261" text-anchor="end" fill="#c9a7e8" font-size="11">menos</text>
 <rect x="660" y="252" width="11" height="11" rx="3" fill="#2a1838"/>
 <rect x="674" y="252" width="11" height="11" rx="3" fill="#5c2a6e"/>
@@ -383,5 +384,5 @@
 <rect x="702" y="252" width="11" height="11" rx="3" fill="#d36fd6"/>
 <rect x="716" y="252" width="11" height="11" rx="3" fill="#ff8fd8"/>
 <text x="734" y="261" fill="#c9a7e8" font-size="11">mais</text>
-<text x="30" y="261" fill="#c9a7e8" font-size="11">atualizado em 30/10/2026 ✧</text>
+<text x="30" y="261" fill="#c9a7e8" font-size="11">atualizado em 31/10/2026 ✧</text>
 </svg>
