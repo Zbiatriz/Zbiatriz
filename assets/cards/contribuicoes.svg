@@ -371,6 +371,7 @@
 <rect x="744" y="206" width="11" height="11" rx="3" fill="#2a1838"><title>30/10/2026: 0</title></rect>
 <rect x="744" y="220" width="11" height="11" rx="3" fill="#2a1838"><title>31/10/2026: 0</title></rect>
 <rect x="758" y="136" width="11" height="11" rx="3" fill="#2a1838"><title>01/11/2026: 0</title></rect>
+<rect x="758" y="150" width="11" height="11" rx="3" fill="#2a1838"><title>02/11/2026: 0</title></rect>
 <text x="652" y="261" text-anchor="end" fill="#c9a7e8" font-size="11">menos</text>
 <rect x="660" y="252" width="11" height="11" rx="3" fill="#2a1838"/>
 <rect x="674" y="252" width="11" height="11" rx="3" fill="#5c2a6e"/>
@@ -378,5 +379,5 @@
 <rect x="702" y="252" width="11" height="11" rx="3" fill="#d36fd6"/>
 <rect x="716" y="252" width="11" height="11" rx="3" fill="#ff8fd8"/>
 <text x="734" y="261" fill="#c9a7e8" font-size="11">mais</text>
-<text x="30" y="261" fill="#c9a7e8" font-size="11">atualizado em 01/11/2026 ✧</text>
+<text x="30" y="261" fill="#c9a7e8" font-size="11">atualizado em 02/11/2026 ✧</text>
 </svg>
